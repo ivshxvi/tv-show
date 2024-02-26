@@ -1,4 +1,4 @@
-import { useSearch } from "../../Context";
+import { useSearch } from "../../contexts";
 import { useEffect } from "react";
 
 const SearchForm = () => {
